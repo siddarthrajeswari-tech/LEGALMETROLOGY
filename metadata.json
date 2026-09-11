@@ -1,0 +1,6 @@
+{
+  "name": "Legal Metrology Enforcement Portal",
+  "description": "Government of India Legal Metrology Officer (LMO) Enforcement Portal for field audits, label OCR inspection, supervisory review, and state-wide statutory command.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
